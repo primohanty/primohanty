@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @primohanty
-- 👀 I’m interested in ...Data Science
-- 🌱 I’m currently learning ...Pandas
+- 👋 Hi, I’m Priyabrata Mohanty
+- 👀 I’m interested in ...Web development
+- 🌱 I’m currently learning ...Backend (Node.js) and DB(MongoDB)
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...primohanty2001@gmail.com
+- 📫 How to reach me ...mohanty200101@gmail.com
 
 <!---
 primohanty/primohanty is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

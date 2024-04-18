@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Priyabrata Mohanty
-- 👀 I’m interested in ...Web Development
-- 🌱 I’m currently learning ...Backend (Node.js) and Database(MongoDB)
+- 👀 I’m interested in ...Web Development(have worked with MERN stack)
+- 🌱 I’m currently learning ...NextJs
 - 📫 How to reach me ...mohanty200101@gmail.com
 
 <!---
